@@ -11,6 +11,8 @@ node app.js
 
 browse http://localhost:3000
 
+See the result here : http://oyo-fr.github.io/launchpunk/
+
 # controls
 Click on the buttons on the virtual launchpad to launch a sound. Note : Try clicking on the "Mixer" button to launch the instrumental music
 
